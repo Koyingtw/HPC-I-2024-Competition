@@ -1,15 +1,15 @@
 # HPC-I_2024_Competition
 
 ### Submit list
-- [ ] ClusterSetup.pdf
+- [x] ClusterSetup.pdf
 - [x] HPL.dat
 - [x] HPL.out
-- [ ]HPL.pdf (Optional)
+- [ ] HPL.pdf (Optional)
 - [x] RegCM.out
-- [ ] RegCM.pdf
+- [x] RegCM.pdf
 - [ ] ParaSeis.out
 - [ ] ParaSeis.pdf
 - [x] LAMMPS.out
-- [ ] LAMMPS.pdf
+- [x] LAMMPS.pdf
 - [x] OpenLB.out
-- [ ] OpenLB.pdf
+- [x] OpenLB.pdf
