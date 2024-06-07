@@ -1,0 +1,753 @@
+Sun Jun  2 08:15:21 AM UTC 2024
+[OmpManager] Sucessfully initialized, numThreads=1
+[ThreadPool] Sucessfully initialized, numThreads=1
+[prepareGeometry] Prepare Geometry ...
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometryStatistics3D] updated
+[SuperGeometry3D] the model is correct!
+[CuboidGeometry3D] ---Cuboid Stucture Statistics---
+[CuboidGeometry3D]  Number of Cuboids: 	16
+[CuboidGeometry3D]  Delta  (min): 		1
+[CuboidGeometry3D]         (max): 		1
+[CuboidGeometry3D]  Ratio  (min): 		0.5
+[CuboidGeometry3D]         (max): 		2
+[CuboidGeometry3D]  Nodes  (min): 		500000
+[CuboidGeometry3D]         (max): 		500000
+[CuboidGeometry3D]  Weight (min): 		500000
+[CuboidGeometry3D]         (max): 		500000
+[CuboidGeometry3D] --------------------------------
+[SuperGeometryStatistics3D] materialNumber=1; count=3960000; minPhysR=(0,1,0); maxPhysR=(199,99,199)
+[SuperGeometryStatistics3D] materialNumber=2; count=3960000; minPhysR=(0,100,0); maxPhysR=(199,198,199)
+[SuperGeometryStatistics3D] materialNumber=3; count=40000; minPhysR=(0,0,0); maxPhysR=(199,0,199)
+[SuperGeometryStatistics3D] materialNumber=4; count=40000; minPhysR=(0,199,0); maxPhysR=(199,199,199)
+[SuperGeometryStatistics3D] countTotal[1e6]=8
+[prepareGeometry] Prepare Geometry ... OK
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ... OK
+[main] starting simulation...
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=100; percent=0.333333; passedTime=23.862; remTime=7134.74; MLUPs=33.5261
+[getResults] averageRhoFluidOne=0.51385; averageRhoFluidTwo=0.527978
+[Timer] step=200; percent=0.666667; passedTime=40.46; remTime=6028.54; MLUPs=48.1957
+[getResults] averageRhoFluidOne=0.514492; averageRhoFluidTwo=0.527281
+[Timer] step=300; percent=1; passedTime=57.276; remTime=5670.32; MLUPs=47.5737
+[getResults] averageRhoFluidOne=0.514759; averageRhoFluidTwo=0.52699
+[Timer] step=400; percent=1.33333; passedTime=73.892; remTime=5468.01; MLUPs=48.1493
+[getResults] averageRhoFluidOne=0.514065; averageRhoFluidTwo=0.526307
+[Timer] step=500; percent=1.66667; passedTime=91.056; remTime=5372.3; MLUPs=46.6065
+[getResults] averageRhoFluidOne=0.514259; averageRhoFluidTwo=0.5278
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=600; percent=2; passedTime=114.752; remTime=5622.85; MLUPs=33.761
+[getResults] averageRhoFluidOne=0.514807; averageRhoFluidTwo=0.527428
+[Timer] step=700; percent=2.33333; passedTime=131.656; remTime=5510.74; MLUPs=47.3261
+[getResults] averageRhoFluidOne=0.514879; averageRhoFluidTwo=0.527688
+[Timer] step=800; percent=2.66667; passedTime=148.206; remTime=5409.52; MLUPs=48.3354
+[getResults] averageRhoFluidOne=0.514588; averageRhoFluidTwo=0.526833
+[Timer] step=900; percent=3; passedTime=164.802; remTime=5328.6; MLUPs=48.2044
+[getResults] averageRhoFluidOne=0.514607; averageRhoFluidTwo=0.526523
+[Timer] step=1000; percent=3.33333; passedTime=181.436; remTime=5261.64; MLUPs=48.0943
+[getResults] averageRhoFluidOne=0.51438; averageRhoFluidTwo=0.527699
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=1100; percent=3.66667; passedTime=200.444; remTime=5266.21; MLUPs=42.0875
+[getResults] averageRhoFluidOne=0.514946; averageRhoFluidTwo=0.526634
+[Timer] step=1200; percent=4; passedTime=216.984; remTime=5207.62; MLUPs=48.3676
+[getResults] averageRhoFluidOne=0.51433; averageRhoFluidTwo=0.527359
+[Timer] step=1300; percent=4.33333; passedTime=233.556; remTime=5156.2; MLUPs=48.2742
+[getResults] averageRhoFluidOne=0.514627; averageRhoFluidTwo=0.526622
+[Timer] step=1400; percent=4.66667; passedTime=250.287; remTime=5113.01; MLUPs=47.8126
+[getResults] averageRhoFluidOne=0.51459; averageRhoFluidTwo=0.527108
+[Timer] step=1500; percent=5; passedTime=267.207; remTime=5076.93; MLUPs=47.2785
+[getResults] averageRhoFluidOne=0.514531; averageRhoFluidTwo=0.527175
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=1600; percent=5.33333; passedTime=286.957; remTime=5093.49; MLUPs=40.5084
+[getResults] averageRhoFluidOne=0.515019; averageRhoFluidTwo=0.526572
+[Timer] step=1700; percent=5.66667; passedTime=303.477; remTime=5052; MLUPs=48.4262
+[getResults] averageRhoFluidOne=0.51438; averageRhoFluidTwo=0.528269
+[Timer] step=1800; percent=6; passedTime=320.042; remTime=5013.99; MLUPs=48.2917
+[getResults] averageRhoFluidOne=0.514924; averageRhoFluidTwo=0.526773
+[Timer] step=1900; percent=6.33333; passedTime=336.703; remTime=4979.66; MLUPs=48.0192
+[getResults] averageRhoFluidOne=0.51464; averageRhoFluidTwo=0.527011
+[Timer] step=2000; percent=6.66667; passedTime=353.301; remTime=4946.21; MLUPs=48.1957
+[getResults] averageRhoFluidOne=0.514572; averageRhoFluidTwo=0.527531
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=2100; percent=7; passedTime=375.03; remTime=4982.54; MLUPs=36.8155
+[getResults] averageRhoFluidOne=0.514621; averageRhoFluidTwo=0.527011
+[Timer] step=2200; percent=7.33333; passedTime=391.584; remTime=4948.2; MLUPs=48.3296
+[getResults] averageRhoFluidOne=0.514361; averageRhoFluidTwo=0.527937
+[Timer] step=2300; percent=7.66667; passedTime=408.151; remTime=4915.56; MLUPs=48.2859
+[getResults] averageRhoFluidOne=0.514823; averageRhoFluidTwo=0.52685
+[Timer] step=2400; percent=8; passedTime=424.665; remTime=4883.65; MLUPs=48.4467
+[getResults] averageRhoFluidOne=0.514404; averageRhoFluidTwo=0.528401
+[Timer] step=2500; percent=8.33333; passedTime=441.589; remTime=4857.48; MLUPs=47.2701
+[getResults] averageRhoFluidOne=0.514547; averageRhoFluidTwo=0.527342
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=2600; percent=8.66667; passedTime=461.23; remTime=4860.66; MLUPs=40.729
+[getResults] averageRhoFluidOne=0.51468; averageRhoFluidTwo=0.527005
+[Timer] step=2700; percent=9; passedTime=477.953; remTime=4832.64; MLUPs=47.8412
+[getResults] averageRhoFluidOne=0.514319; averageRhoFluidTwo=0.52835
+[Timer] step=2800; percent=9.33333; passedTime=494.531; remTime=4804.02; MLUPs=48.2538
+[getResults] averageRhoFluidOne=0.514553; averageRhoFluidTwo=0.527369
+[Timer] step=2900; percent=9.66667; passedTime=511.079; remTime=4775.95; MLUPs=48.3442
+[getResults] averageRhoFluidOne=0.514314; averageRhoFluidTwo=0.528193
+[Timer] step=3000; percent=10; passedTime=527.65; remTime=4748.85; MLUPs=48.2771
+[getResults] averageRhoFluidOne=0.514475; averageRhoFluidTwo=0.527702
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=3100; percent=10.3333; passedTime=546.887; remTime=4745.57; MLUPs=41.5865
+[getResults] averageRhoFluidOne=0.514286; averageRhoFluidTwo=0.52839
+[Timer] step=3200; percent=10.6667; passedTime=563.523; remTime=4719.51; MLUPs=48.0885
+[getResults] averageRhoFluidOne=0.514349; averageRhoFluidTwo=0.528275
+[Timer] step=3300; percent=11; passedTime=580.166; remTime=4694.07; MLUPs=48.0654
+[getResults] averageRhoFluidOne=0.514571; averageRhoFluidTwo=0.527443
+[Timer] step=3400; percent=11.3333; passedTime=596.812; remTime=4669.18; MLUPs=48.0596
+[getResults] averageRhoFluidOne=0.514295; averageRhoFluidTwo=0.528435
+[Timer] step=3500; percent=11.6667; passedTime=613.436; remTime=4644.59; MLUPs=48.1203
+[getResults] averageRhoFluidOne=0.51444; averageRhoFluidTwo=0.528356
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=3600; percent=12; passedTime=635.164; remTime=4657.87; MLUPs=36.8189
+[getResults] averageRhoFluidOne=0.514429; averageRhoFluidTwo=0.528287
+[Timer] step=3700; percent=12.3333; passedTime=651.848; remTime=4633.41; MLUPs=47.9501
+[getResults] averageRhoFluidOne=0.514299; averageRhoFluidTwo=0.528352
+[Timer] step=3800; percent=12.6667; passedTime=668.562; remTime=4609.56; MLUPs=47.8612
+[getResults] averageRhoFluidOne=0.514252; averageRhoFluidTwo=0.528395
+[Timer] step=3900; percent=13; passedTime=685.544; remTime=4587.87; MLUPs=47.1087
+[getResults] averageRhoFluidOne=0.514272; averageRhoFluidTwo=0.528252
+[Timer] step=4000; percent=13.3333; passedTime=702.267; remTime=4564.74; MLUPs=47.8383
+[getResults] averageRhoFluidOne=0.514327; averageRhoFluidTwo=0.52834
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=4100; percent=13.6667; passedTime=728.066; remTime=4599.25; MLUPs=31.0078
+[getResults] averageRhoFluidOne=0.514185; averageRhoFluidTwo=0.528418
+[Timer] step=4200; percent=14; passedTime=744.625; remTime=4574.12; MLUPs=48.315
+[getResults] averageRhoFluidOne=0.514298; averageRhoFluidTwo=0.528324
+[Timer] step=4300; percent=14.3333; passedTime=761.266; remTime=4549.89; MLUPs=48.0711
+[getResults] averageRhoFluidOne=0.514287; averageRhoFluidTwo=0.528297
+[Timer] step=4400; percent=14.6667; passedTime=777.953; remTime=4526.27; MLUPs=47.9444
+[getResults] averageRhoFluidOne=0.514224; averageRhoFluidTwo=0.528386
+[Timer] step=4500; percent=15; passedTime=794.624; remTime=4502.87; MLUPs=47.9846
+[getResults] averageRhoFluidOne=0.514194; averageRhoFluidTwo=0.528421
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=4600; percent=15.3333; passedTime=814.015; remTime=4494.78; MLUPs=41.2563
+[getResults] averageRhoFluidOne=0.514329; averageRhoFluidTwo=0.528334
+[Timer] step=4700; percent=15.6667; passedTime=830.549; remTime=4470.83; MLUPs=48.3851
+[getResults] averageRhoFluidOne=0.514213; averageRhoFluidTwo=0.528398
+[Timer] step=4800; percent=16; passedTime=849.459; remTime=4459.66; MLUPs=42.3034
+[getResults] averageRhoFluidOne=0.514202; averageRhoFluidTwo=0.528445
+[Timer] step=4900; percent=16.3333; passedTime=866.073; remTime=4436.41; MLUPs=48.1493
+[getResults] averageRhoFluidOne=0.514231; averageRhoFluidTwo=0.528414
+[Timer] step=5000; percent=16.6667; passedTime=882.906; remTime=4414.53; MLUPs=47.5257
+[getResults] averageRhoFluidOne=0.514247; averageRhoFluidTwo=0.528365
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=5100; percent=17; passedTime=902.377; remTime=4405.72; MLUPs=41.0867
+[getResults] averageRhoFluidOne=0.514226; averageRhoFluidTwo=0.528455
+[Timer] step=5200; percent=17.3333; passedTime=918.984; remTime=4382.85; MLUPs=48.1754
+[getResults] averageRhoFluidOne=0.514248; averageRhoFluidTwo=0.528396
+[Timer] step=5300; percent=17.6667; passedTime=935.539; remTime=4359.97; MLUPs=48.3238
+[getResults] averageRhoFluidOne=0.514229; averageRhoFluidTwo=0.528415
+[Timer] step=5400; percent=18; passedTime=952.042; remTime=4337.08; MLUPs=48.4731
+[getResults] averageRhoFluidOne=0.514124; averageRhoFluidTwo=0.528402
+[Timer] step=5500; percent=18.3333; passedTime=968.599; remTime=4314.67; MLUPs=48.3209
+[getResults] averageRhoFluidOne=0.5142; averageRhoFluidTwo=0.528464
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=5600; percent=18.6667; passedTime=987.97; remTime=4304.73; MLUPs=41.2988
+[getResults] averageRhoFluidOne=0.514154; averageRhoFluidTwo=0.528386
+[Timer] step=5700; percent=19; passedTime=1004.52; remTime=4282.44; MLUPs=48.3296
+[getResults] averageRhoFluidOne=0.514203; averageRhoFluidTwo=0.528387
+[Timer] step=5800; percent=19.3333; passedTime=1021.1; remTime=4260.44; MLUPs=48.2713
+[getResults] averageRhoFluidOne=0.514118; averageRhoFluidTwo=0.528517
+[Timer] step=5900; percent=19.6667; passedTime=1037.64; remTime=4238.48; MLUPs=48.3676
+[getResults] averageRhoFluidOne=0.514225; averageRhoFluidTwo=0.528394
+[Timer] step=6000; percent=20; passedTime=1054.21; remTime=4216.83; MLUPs=48.28
+[getResults] averageRhoFluidOne=0.514228; averageRhoFluidTwo=0.528377
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=6100; percent=20.3333; passedTime=1073.68; remTime=4206.72; MLUPs=41.0783
+[getResults] averageRhoFluidOne=0.514106; averageRhoFluidTwo=0.528508
+[Timer] step=6200; percent=20.6667; passedTime=1090.32; remTime=4185.41; MLUPs=48.0943
+[getResults] averageRhoFluidOne=0.514183; averageRhoFluidTwo=0.528493
+[Timer] step=6300; percent=21; passedTime=1106.99; remTime=4164.39; MLUPs=47.9789
+[getResults] averageRhoFluidOne=0.514196; averageRhoFluidTwo=0.528342
+[Timer] step=6400; percent=21.3333; passedTime=1123.62; remTime=4143.36; MLUPs=48.0943
+[getResults] averageRhoFluidOne=0.51419; averageRhoFluidTwo=0.528457
+[Timer] step=6500; percent=21.6667; passedTime=1140.14; remTime=4122.05; MLUPs=48.4349
+[getResults] averageRhoFluidOne=0.514099; averageRhoFluidTwo=0.528547
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=6600; percent=22; passedTime=1159.65; remTime=4111.5; MLUPs=40.9962
+[getResults] averageRhoFluidOne=0.514126; averageRhoFluidTwo=0.528378
+[Timer] step=6700; percent=22.3333; passedTime=1176.27; remTime=4090.61; MLUPs=48.1493
+[getResults] averageRhoFluidOne=0.51412; averageRhoFluidTwo=0.528395
+[Timer] step=6800; percent=22.6667; passedTime=1192.83; remTime=4069.66; MLUPs=48.3063
+[getResults] averageRhoFluidOne=0.514114; averageRhoFluidTwo=0.528602
+[Timer] step=6900; percent=23; passedTime=1211.64; remTime=4056.36; MLUPs=42.5328
+[getResults] averageRhoFluidOne=0.514147; averageRhoFluidTwo=0.528491
+[Timer] step=7000; percent=23.3333; passedTime=1228.21; remTime=4035.56; MLUPs=48.2684
+[getResults] averageRhoFluidOne=0.514128; averageRhoFluidTwo=0.528378
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=7100; percent=23.6667; passedTime=1248.19; remTime=4025.85; MLUPs=40.0461
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528552
+[Timer] step=7200; percent=24; passedTime=1265.14; remTime=4006.29; MLUPs=47.1865
+[getResults] averageRhoFluidOne=0.51412; averageRhoFluidTwo=0.528572
+[Timer] step=7300; percent=24.3333; passedTime=1282.1; remTime=3986.81; MLUPs=47.1754
+[getResults] averageRhoFluidOne=0.514126; averageRhoFluidTwo=0.528427
+[Timer] step=7400; percent=24.6667; passedTime=1298.71; remTime=3966.34; MLUPs=48.1551
+[getResults] averageRhoFluidOne=0.514148; averageRhoFluidTwo=0.528477
+[Timer] step=7500; percent=25; passedTime=1315.65; remTime=3946.95; MLUPs=47.2394
+[getResults] averageRhoFluidOne=0.514121; averageRhoFluidTwo=0.52868
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=7600; percent=25.3333; passedTime=1335.1; remTime=3935.04; MLUPs=41.1227
+[getResults] averageRhoFluidOne=0.514128; averageRhoFluidTwo=0.528485
+[Timer] step=7700; percent=25.6667; passedTime=1351.64; remTime=3914.5; MLUPs=48.3617
+[getResults] averageRhoFluidOne=0.514132; averageRhoFluidTwo=0.528435
+[Timer] step=7800; percent=26; passedTime=1368.19; remTime=3894.09; MLUPs=48.3413
+[getResults] averageRhoFluidOne=0.514046; averageRhoFluidTwo=0.528678
+[Timer] step=7900; percent=26.3333; passedTime=1384.79; remTime=3873.9; MLUPs=48.2102
+[getResults] averageRhoFluidOne=0.514114; averageRhoFluidTwo=0.528596
+[Timer] step=8000; percent=26.6667; passedTime=1401.42; remTime=3853.91; MLUPs=48.0943
+[getResults] averageRhoFluidOne=0.514102; averageRhoFluidTwo=0.52845
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=8100; percent=27; passedTime=1421.01; remTime=3842; MLUPs=40.8351
+[getResults] averageRhoFluidOne=0.514111; averageRhoFluidTwo=0.528568
+[Timer] step=8200; percent=27.3333; passedTime=1437.63; remTime=3822; MLUPs=48.1319
+[getResults] averageRhoFluidOne=0.514116; averageRhoFluidTwo=0.528748
+[Timer] step=8300; percent=27.6667; passedTime=1454.15; remTime=3801.82; MLUPs=48.4262
+[getResults] averageRhoFluidOne=0.514115; averageRhoFluidTwo=0.52849
+[Timer] step=8400; percent=28; passedTime=1470.73; remTime=3781.89; MLUPs=48.2509
+[getResults] averageRhoFluidOne=0.514119; averageRhoFluidTwo=0.528514
+[Timer] step=8500; percent=28.3333; passedTime=1487.29; remTime=3761.96; MLUPs=48.3238
+[getResults] averageRhoFluidOne=0.514114; averageRhoFluidTwo=0.528812
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=8600; percent=28.6667; passedTime=1506.79; remTime=3749.45; MLUPs=41.0214
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528601
+[Timer] step=8700; percent=29; passedTime=1523.46; remTime=3729.86; MLUPs=47.9731
+[getResults] averageRhoFluidOne=0.514092; averageRhoFluidTwo=0.528492
+[Timer] step=8800; percent=29.3333; passedTime=1540.14; remTime=3710.34; MLUPs=47.9645
+[getResults] averageRhoFluidOne=0.514019; averageRhoFluidTwo=0.528799
+[Timer] step=8900; percent=29.6667; passedTime=1556.85; remTime=3690.95; MLUPs=47.8927
+[getResults] averageRhoFluidOne=0.514092; averageRhoFluidTwo=0.528814
+[Timer] step=9000; percent=30; passedTime=1573.35; remTime=3671.16; MLUPs=48.4672
+[getResults] averageRhoFluidOne=0.514087; averageRhoFluidTwo=0.528517
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=9100; percent=30.3333; passedTime=1592.84; remTime=3658.28; MLUPs=41.0551
+[getResults] averageRhoFluidOne=0.5141; averageRhoFluidTwo=0.52863
+[Timer] step=9200; percent=30.6667; passedTime=1609.4; remTime=3638.65; MLUPs=48.3004
+[getResults] averageRhoFluidOne=0.514092; averageRhoFluidTwo=0.528821
+[Timer] step=9300; percent=31; passedTime=1626.23; remTime=3619.66; MLUPs=47.5511
+[getResults] averageRhoFluidOne=0.514119; averageRhoFluidTwo=0.528646
+[Timer] step=9400; percent=31.3333; passedTime=1643.1; remTime=3600.83; MLUPs=47.4158
+[getResults] averageRhoFluidOne=0.514113; averageRhoFluidTwo=0.528571
+[Timer] step=9500; percent=31.6667; passedTime=1659.79; remTime=3581.64; MLUPs=47.9358
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528817
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=9600; percent=32; passedTime=1679.25; remTime=3568.41; MLUPs=41.1015
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528807
+[Timer] step=9700; percent=32.3333; passedTime=1695.82; remTime=3548.99; MLUPs=48.2742
+[getResults] averageRhoFluidOne=0.514091; averageRhoFluidTwo=0.528587
+[Timer] step=9800; percent=32.6667; passedTime=1712.37; remTime=3529.58; MLUPs=48.3442
+[getResults] averageRhoFluidOne=0.514004; averageRhoFluidTwo=0.528803
+[Timer] step=9900; percent=33; passedTime=1728.99; remTime=3510.36; MLUPs=48.1522
+[getResults] averageRhoFluidOne=0.514085; averageRhoFluidTwo=0.528805
+[Timer] step=10000; percent=33.3333; passedTime=1745.63; remTime=3491.25; MLUPs=48.074
+[getResults] averageRhoFluidOne=0.514118; averageRhoFluidTwo=0.528692
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=10100; percent=33.6667; passedTime=1765.12; remTime=3477.82; MLUPs=41.0299
+[getResults] averageRhoFluidOne=0.514095; averageRhoFluidTwo=0.52873
+[Timer] step=10200; percent=34; passedTime=1784.74; remTime=3464.5; MLUPs=40.7768
+[getResults] averageRhoFluidOne=0.514071; averageRhoFluidTwo=0.528796
+[Timer] step=10300; percent=34.3333; passedTime=1801.44; remTime=3445.48; MLUPs=47.9013
+[getResults] averageRhoFluidOne=0.514021; averageRhoFluidTwo=0.528818
+[Timer] step=10400; percent=34.6667; passedTime=1818.05; remTime=3426.32; MLUPs=48.1783
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528687
+[Timer] step=10500; percent=35; passedTime=1834.71; remTime=3407.32; MLUPs=48.0106
+[getResults] averageRhoFluidOne=0.514094; averageRhoFluidTwo=0.528803
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=10600; percent=35.3333; passedTime=1854.09; remTime=3393.34; MLUPs=41.2712
+[getResults] averageRhoFluidOne=0.514094; averageRhoFluidTwo=0.528797
+[Timer] step=10700; percent=35.6667; passedTime=1870.79; remTime=3374.42; MLUPs=47.9071
+[getResults] averageRhoFluidOne=0.514091; averageRhoFluidTwo=0.528803
+[Timer] step=10800; percent=36; passedTime=1887.51; remTime=3355.58; MLUPs=47.8526
+[getResults] averageRhoFluidOne=0.514015; averageRhoFluidTwo=0.528807
+[Timer] step=10900; percent=36.3333; passedTime=1904.22; remTime=3336.75; MLUPs=47.8813
+[getResults] averageRhoFluidOne=0.514067; averageRhoFluidTwo=0.528786
+[Timer] step=11000; percent=36.6667; passedTime=1920.96; remTime=3318.03; MLUPs=47.784
+[getResults] averageRhoFluidOne=0.514012; averageRhoFluidTwo=0.528804
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=11100; percent=37; passedTime=1940.43; remTime=3303.97; MLUPs=41.0973
+[getResults] averageRhoFluidOne=0.513993; averageRhoFluidTwo=0.528793
+[Timer] step=11200; percent=37.3333; passedTime=1957.07; remTime=3285.08; MLUPs=48.0654
+[getResults] averageRhoFluidOne=0.514064; averageRhoFluidTwo=0.528787
+[Timer] step=11300; percent=37.6667; passedTime=1973.71; remTime=3266.23; MLUPs=48.0683
+[getResults] averageRhoFluidOne=0.514088; averageRhoFluidTwo=0.528791
+[Timer] step=11400; percent=38; passedTime=1990.36; remTime=3247.43; MLUPs=48.0567
+[getResults] averageRhoFluidOne=0.513989; averageRhoFluidTwo=0.528806
+[Timer] step=11500; percent=38.3333; passedTime=2006.92; remTime=3228.53; MLUPs=48.3063
+[getResults] averageRhoFluidOne=0.514081; averageRhoFluidTwo=0.528789
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=11600; percent=38.6667; passedTime=2026.4; remTime=3214.29; MLUPs=41.0741
+[getResults] averageRhoFluidOne=0.514062; averageRhoFluidTwo=0.52878
+[Timer] step=11700; percent=39; passedTime=2043.34; remTime=3195.99; MLUPs=47.2199
+[getResults] averageRhoFluidOne=0.514013; averageRhoFluidTwo=0.528798
+[Timer] step=11800; percent=39.3333; passedTime=2060.12; remTime=3177.47; MLUPs=47.6815
+[getResults] averageRhoFluidOne=0.514088; averageRhoFluidTwo=0.528793
+[Timer] step=11900; percent=39.6667; passedTime=2076.84; remTime=3158.9; MLUPs=47.8297
+[getResults] averageRhoFluidOne=0.514064; averageRhoFluidTwo=0.528767
+[Timer] step=12000; percent=40; passedTime=2093.33; remTime=3140; MLUPs=48.5113
+[getResults] averageRhoFluidOne=0.514081; averageRhoFluidTwo=0.528785
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=12100; percent=40.3333; passedTime=2112.74; remTime=3125.47; MLUPs=41.2137
+[getResults] averageRhoFluidOne=0.51401; averageRhoFluidTwo=0.528791
+[Timer] step=12200; percent=40.6667; passedTime=2129.42; remTime=3106.85; MLUPs=47.9875
+[getResults] averageRhoFluidOne=0.514061; averageRhoFluidTwo=0.528774
+[Timer] step=12300; percent=41; passedTime=2146.12; remTime=3088.32; MLUPs=47.8927
+[getResults] averageRhoFluidOne=0.514061; averageRhoFluidTwo=0.528769
+[Timer] step=12400; percent=41.3333; passedTime=2162.72; remTime=3069.67; MLUPs=48.1812
+[getResults] averageRhoFluidOne=0.514007; averageRhoFluidTwo=0.528783
+[Timer] step=12500; percent=41.6667; passedTime=2179.29; remTime=3051.01; MLUPs=48.2888
+[getResults] averageRhoFluidOne=0.514077; averageRhoFluidTwo=0.528775
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=12600; percent=42; passedTime=2198.79; remTime=3036.42; MLUPs=41.032
+[getResults] averageRhoFluidOne=0.514058; averageRhoFluidTwo=0.528763
+[Timer] step=12700; percent=42.3333; passedTime=2215.36; remTime=3017.77; MLUPs=48.28
+[getResults] averageRhoFluidOne=0.514077; averageRhoFluidTwo=0.528778
+[Timer] step=12800; percent=42.6667; passedTime=2231.98; remTime=2999.22; MLUPs=48.1319
+[getResults] averageRhoFluidOne=0.51408; averageRhoFluidTwo=0.528782
+[Timer] step=12900; percent=43; passedTime=2248.59; remTime=2980.69; MLUPs=48.1638
+[getResults] averageRhoFluidOne=0.514056; averageRhoFluidTwo=0.528761
+[Timer] step=13000; percent=43.3333; passedTime=2265.26; remTime=2962.26; MLUPs=47.9904
+[getResults] averageRhoFluidOne=0.514076; averageRhoFluidTwo=0.528768
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=13100; percent=43.6667; passedTime=2284.82; remTime=2947.6; MLUPs=40.8914
+[getResults] averageRhoFluidOne=0.514079; averageRhoFluidTwo=0.528779
+[Timer] step=13200; percent=44; passedTime=2301.42; remTime=2929.08; MLUPs=48.2015
+[getResults] averageRhoFluidOne=0.514077; averageRhoFluidTwo=0.528766
+[Timer] step=13300; percent=44.3333; passedTime=2317.96; remTime=2910.52; MLUPs=48.3705
+[getResults] averageRhoFluidOne=0.514075; averageRhoFluidTwo=0.528758
+[Timer] step=13400; percent=44.6667; passedTime=2334.57; remTime=2892.08; MLUPs=48.1638
+[getResults] averageRhoFluidOne=0.514073; averageRhoFluidTwo=0.528773
+[Timer] step=13500; percent=45; passedTime=2351.21; remTime=2873.7; MLUPs=48.0654
+[getResults] averageRhoFluidOne=0.514067; averageRhoFluidTwo=0.528768
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=13600; percent=45.3333; passedTime=2370.71; remTime=2858.79; MLUPs=41.0362
+[getResults] averageRhoFluidOne=0.514072; averageRhoFluidTwo=0.528751
+[Timer] step=13700; percent=45.6667; passedTime=2387.34; remTime=2840.41; MLUPs=48.1087
+[getResults] averageRhoFluidOne=0.514067; averageRhoFluidTwo=0.528763
+[Timer] step=13800; percent=46; passedTime=2403.96; remTime=2822.04; MLUPs=48.1232
+[getResults] averageRhoFluidOne=0.514076; averageRhoFluidTwo=0.528771
+[Timer] step=13900; percent=46.3333; passedTime=2420.63; remTime=2803.75; MLUPs=47.999
+[getResults] averageRhoFluidOne=0.514049; averageRhoFluidTwo=0.528753
+[Timer] step=14000; percent=46.6667; passedTime=2437.3; remTime=2785.49; MLUPs=47.976
+[getResults] averageRhoFluidOne=0.514049; averageRhoFluidTwo=0.528753
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=14100; percent=47; passedTime=2456.64; remTime=2770.26; MLUPs=41.365
+[getResults] averageRhoFluidOne=0.514064; averageRhoFluidTwo=0.52877
+[Timer] step=14200; percent=47.3333; passedTime=2473.17; remTime=2751.84; MLUPs=48.4027
+[getResults] averageRhoFluidOne=0.514069; averageRhoFluidTwo=0.528758
+[Timer] step=14300; percent=47.6667; passedTime=2489.76; remTime=2733.51; MLUPs=48.2305
+[getResults] averageRhoFluidOne=0.513993; averageRhoFluidTwo=0.528727
+[Timer] step=14400; percent=48; passedTime=2506.42; remTime=2715.29; MLUPs=48.0106
+[getResults] averageRhoFluidOne=0.514083; averageRhoFluidTwo=0.528741
+[Timer] step=14500; percent=48.3333; passedTime=2523.15; remTime=2697.16; MLUPs=47.8097
+[getResults] averageRhoFluidOne=0.514081; averageRhoFluidTwo=0.528744
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=14600; percent=48.6667; passedTime=2542.68; remTime=2682; MLUPs=40.9731
+[getResults] averageRhoFluidOne=0.514087; averageRhoFluidTwo=0.528725
+[Timer] step=14700; percent=49; passedTime=2559.26; remTime=2663.72; MLUPs=48.2393
+[getResults] averageRhoFluidOne=0.514065; averageRhoFluidTwo=0.528733
+[Timer] step=14800; percent=49.3333; passedTime=2575.85; remTime=2645.46; MLUPs=48.2334
+[getResults] averageRhoFluidOne=0.51408; averageRhoFluidTwo=0.528742
+[Timer] step=14900; percent=49.6667; passedTime=2592.46; remTime=2627.26; MLUPs=48.1435
+[getResults] averageRhoFluidOne=0.514065; averageRhoFluidTwo=0.528732
+[Timer] step=15000; percent=50; passedTime=2609.06; remTime=2609.06; MLUPs=48.1928
+[getResults] averageRhoFluidOne=0.514008; averageRhoFluidTwo=0.528723
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=15100; percent=50.3333; passedTime=2628.6; remTime=2593.78; MLUPs=40.9584
+[getResults] averageRhoFluidOne=0.514078; averageRhoFluidTwo=0.528736
+[Timer] step=15200; percent=50.6667; passedTime=2645.16; remTime=2575.55; MLUPs=48.3063
+[getResults] averageRhoFluidOne=0.514084; averageRhoFluidTwo=0.528734
+[Timer] step=15300; percent=51; passedTime=2661.75; remTime=2557.37; MLUPs=48.2015
+[getResults] averageRhoFluidOne=0.514017; averageRhoFluidTwo=0.528723
+[Timer] step=15400; percent=51.3333; passedTime=2678.36; remTime=2539.22; MLUPs=48.1725
+[getResults] averageRhoFluidOne=0.51406; averageRhoFluidTwo=0.528731
+[Timer] step=15500; percent=51.6667; passedTime=2695.34; remTime=2521.44; MLUPs=47.1254
+[getResults] averageRhoFluidOne=0.514077; averageRhoFluidTwo=0.528739
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=15600; percent=52; passedTime=2714.95; remTime=2506.11; MLUPs=40.7768
+[getResults] averageRhoFluidOne=0.514081; averageRhoFluidTwo=0.528725
+[Timer] step=15700; percent=52.3333; passedTime=2731.5; remTime=2487.93; MLUPs=48.3413
+[getResults] averageRhoFluidOne=0.514082; averageRhoFluidTwo=0.528724
+[Timer] step=15800; percent=52.6667; passedTime=2748.2; remTime=2469.9; MLUPs=47.9157
+[getResults] averageRhoFluidOne=0.514078; averageRhoFluidTwo=0.528733
+[Timer] step=15900; percent=53; passedTime=2764.92; remTime=2451.91; MLUPs=47.8383
+[getResults] averageRhoFluidOne=0.514061; averageRhoFluidTwo=0.528728
+[Timer] step=16000; percent=53.3333; passedTime=2781.64; remTime=2433.93; MLUPs=47.8583
+[getResults] averageRhoFluidOne=0.514017; averageRhoFluidTwo=0.528719
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=16100; percent=53.6667; passedTime=2801.25; remTime=2418.47; MLUPs=40.7934
+[getResults] averageRhoFluidOne=0.514079; averageRhoFluidTwo=0.528726
+[Timer] step=16200; percent=54; passedTime=2817.86; remTime=2400.4; MLUPs=48.1464
+[getResults] averageRhoFluidOne=0.51408; averageRhoFluidTwo=0.52873
+[Timer] step=16300; percent=54.3333; passedTime=2834.42; remTime=2382.31; MLUPs=48.3121
+[getResults] averageRhoFluidOne=0.514016; averageRhoFluidTwo=0.528717
+[Timer] step=16400; percent=54.6667; passedTime=2851.07; remTime=2364.31; MLUPs=48.0394
+[getResults] averageRhoFluidOne=0.514079; averageRhoFluidTwo=0.528721
+[Timer] step=16500; percent=55; passedTime=2867.78; remTime=2346.36; MLUPs=47.9013
+[getResults] averageRhoFluidOne=0.51408; averageRhoFluidTwo=0.52873
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=16600; percent=55.3333; passedTime=2887.35; remTime=2330.75; MLUPs=40.8747
+[getResults] averageRhoFluidOne=0.514079; averageRhoFluidTwo=0.52872
+[Timer] step=16700; percent=55.6667; passedTime=2904.04; remTime=2312.8; MLUPs=47.9128
+[getResults] averageRhoFluidOne=0.514015; averageRhoFluidTwo=0.528716
+[Timer] step=16800; percent=56; passedTime=2920.62; remTime=2294.77; MLUPs=48.2742
+[getResults] averageRhoFluidOne=0.514077; averageRhoFluidTwo=0.528727
+[Timer] step=16900; percent=56.3333; passedTime=2937.26; remTime=2276.81; MLUPs=48.0538
+[getResults] averageRhoFluidOne=0.514056; averageRhoFluidTwo=0.528724
+[Timer] step=17000; percent=56.6667; passedTime=2953.93; remTime=2258.89; MLUPs=48.0019
+[getResults] averageRhoFluidOne=0.514012; averageRhoFluidTwo=0.528716
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=17100; percent=57; passedTime=2973.5; remTime=2243.16; MLUPs=40.8852
+[getResults] averageRhoFluidOne=0.514077; averageRhoFluidTwo=0.528718
+[Timer] step=17200; percent=57.3333; passedTime=2990.14; remTime=2225.22; MLUPs=48.0654
+[getResults] averageRhoFluidOne=0.514076; averageRhoFluidTwo=0.528724
+[Timer] step=17300; percent=57.6667; passedTime=3006.76; remTime=2207.27; MLUPs=48.1464
+[getResults] averageRhoFluidOne=0.514007; averageRhoFluidTwo=0.528708
+[Timer] step=17400; percent=58; passedTime=3023.31; remTime=2189.29; MLUPs=48.3179
+[getResults] averageRhoFluidOne=0.514007; averageRhoFluidTwo=0.528707
+[Timer] step=17500; percent=58.3333; passedTime=3039.96; remTime=2171.4; MLUPs=48.0654
+[getResults] averageRhoFluidOne=0.51408; averageRhoFluidTwo=0.52872
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=17600; percent=58.6667; passedTime=3059.2; remTime=2155.35; MLUPs=41.5692
+[getResults] averageRhoFluidOne=0.51408; averageRhoFluidTwo=0.528711
+[Timer] step=17700; percent=59; passedTime=3075.73; remTime=2137.37; MLUPs=48.4027
+[getResults] averageRhoFluidOne=0.514015; averageRhoFluidTwo=0.528708
+[Timer] step=17800; percent=59.3333; passedTime=3092.34; remTime=2119.47; MLUPs=48.1638
+[getResults] averageRhoFluidOne=0.514059; averageRhoFluidTwo=0.528716
+[Timer] step=17900; percent=59.6667; passedTime=3108.93; remTime=2101.57; MLUPs=48.2247
+[getResults] averageRhoFluidOne=0.514058; averageRhoFluidTwo=0.528714
+[Timer] step=18000; percent=60; passedTime=3125.55; remTime=2083.7; MLUPs=48.1406
+[getResults] averageRhoFluidOne=0.514015; averageRhoFluidTwo=0.528707
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=18100; percent=60.3333; passedTime=3145.1; remTime=2067.77; MLUPs=40.9123
+[getResults] averageRhoFluidOne=0.514003; averageRhoFluidTwo=0.528711
+[Timer] step=18200; percent=60.6667; passedTime=3161.69; remTime=2049.89; MLUPs=48.2218
+[getResults] averageRhoFluidOne=0.514099; averageRhoFluidTwo=0.528713
+[Timer] step=18300; percent=61; passedTime=3178.28; remTime=2032.01; MLUPs=48.2276
+[getResults] averageRhoFluidOne=0.514003; averageRhoFluidTwo=0.52871
+[Timer] step=18400; percent=61.3333; passedTime=3194.89; remTime=2014.17; MLUPs=48.1551
+[getResults] averageRhoFluidOne=0.514013; averageRhoFluidTwo=0.528707
+[Timer] step=18500; percent=61.6667; passedTime=3211.59; remTime=1996.39; MLUPs=47.9185
+[getResults] averageRhoFluidOne=0.514078; averageRhoFluidTwo=0.528713
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=18600; percent=62; passedTime=3231.17; remTime=1980.39; MLUPs=40.8497
+[getResults] averageRhoFluidOne=0.514099; averageRhoFluidTwo=0.528713
+[Timer] step=18700; percent=62.3333; passedTime=3247.85; remTime=1962.6; MLUPs=47.9674
+[getResults] averageRhoFluidOne=0.514001; averageRhoFluidTwo=0.528706
+[Timer] step=18800; percent=62.6667; passedTime=3264.57; remTime=1944.85; MLUPs=47.8498
+[getResults] averageRhoFluidOne=0.514098; averageRhoFluidTwo=0.528709
+[Timer] step=18900; percent=63; passedTime=3281.26; remTime=1927.09; MLUPs=47.9358
+[getResults] averageRhoFluidOne=0.514077; averageRhoFluidTwo=0.528711
+[Timer] step=19000; percent=63.3333; passedTime=3298.05; remTime=1909.4; MLUPs=47.6247
+[getResults] averageRhoFluidOne=0.514034; averageRhoFluidTwo=0.528704
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=19100; percent=63.6667; passedTime=3317.75; remTime=1893.37; MLUPs=40.6194
+[getResults] averageRhoFluidOne=0.514034; averageRhoFluidTwo=0.528703
+[Timer] step=19200; percent=64; passedTime=3334.3; remTime=1875.54; MLUPs=48.3471
+[getResults] averageRhoFluidOne=0.514097; averageRhoFluidTwo=0.52871
+[Timer] step=19300; percent=64.3333; passedTime=3350.94; remTime=1857.78; MLUPs=48.0625
+[getResults] averageRhoFluidOne=0.514097; averageRhoFluidTwo=0.528707
+[Timer] step=19400; percent=64.6667; passedTime=3367.58; remTime=1840.02; MLUPs=48.0798
+[getResults] averageRhoFluidOne=0.514012; averageRhoFluidTwo=0.528703
+[Timer] step=19500; percent=65; passedTime=3384.28; remTime=1822.3; MLUPs=47.9042
+[getResults] averageRhoFluidOne=0.514098; averageRhoFluidTwo=0.528707
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=19600; percent=65.3333; passedTime=3403.93; remTime=1806.17; MLUPs=40.7
+[getResults] averageRhoFluidOne=0.514098; averageRhoFluidTwo=0.52871
+[Timer] step=19700; percent=65.6667; passedTime=3420.61; remTime=1788.44; MLUPs=47.9731
+[getResults] averageRhoFluidOne=0.514033; averageRhoFluidTwo=0.528683
+[Timer] step=19800; percent=66; passedTime=3437.31; remTime=1770.74; MLUPs=47.9013
+[getResults] averageRhoFluidOne=0.514034; averageRhoFluidTwo=0.528686
+[Timer] step=19900; percent=66.3333; passedTime=3453.92; remTime=1752.99; MLUPs=48.1725
+[getResults] averageRhoFluidOne=0.514097; averageRhoFluidTwo=0.528709
+[Timer] step=20000; percent=66.6667; passedTime=3470.61; remTime=1735.31; MLUPs=47.9157
+[getResults] averageRhoFluidOne=0.514034; averageRhoFluidTwo=0.528686
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=20100; percent=67; passedTime=3490.32; remTime=1719.11; MLUPs=40.5947
+[getResults] averageRhoFluidOne=0.514011; averageRhoFluidTwo=0.528683
+[Timer] step=20200; percent=67.3333; passedTime=3507.02; remTime=1701.43; MLUPs=47.8956
+[getResults] averageRhoFluidOne=0.514096; averageRhoFluidTwo=0.52869
+[Timer] step=20300; percent=67.6667; passedTime=3523.7; remTime=1683.74; MLUPs=47.9818
+[getResults] averageRhoFluidOne=0.514097; averageRhoFluidTwo=0.52869
+[Timer] step=20400; percent=68; passedTime=3540.26; remTime=1666; MLUPs=48.3063
+[getResults] averageRhoFluidOne=0.514011; averageRhoFluidTwo=0.528682
+[Timer] step=20500; percent=68.3333; passedTime=3556.8; remTime=1648.27; MLUPs=48.3501
+[getResults] averageRhoFluidOne=0.51403; averageRhoFluidTwo=0.528685
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=20600; percent=68.6667; passedTime=3576.35; remTime=1631.92; MLUPs=40.9354
+[getResults] averageRhoFluidOne=0.514096; averageRhoFluidTwo=0.528685
+[Timer] step=20700; percent=69; passedTime=3592.84; remTime=1614.18; MLUPs=48.4907
+[getResults] averageRhoFluidOne=0.514032; averageRhoFluidTwo=0.528607
+[Timer] step=20800; percent=69.3333; passedTime=3609.58; remTime=1596.54; MLUPs=47.8126
+[getResults] averageRhoFluidOne=0.514032; averageRhoFluidTwo=0.528607
+[Timer] step=20900; percent=69.6667; passedTime=3626.2; remTime=1578.87; MLUPs=48.129
+[getResults] averageRhoFluidOne=0.514096; averageRhoFluidTwo=0.52861
+[Timer] step=21000; percent=70; passedTime=3642.86; remTime=1561.23; MLUPs=48.0106
+[getResults] averageRhoFluidOne=0.514022; averageRhoFluidTwo=0.528606
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=21100; percent=70.3333; passedTime=3662.36; remTime=1544.79; MLUPs=41.0362
+[getResults] averageRhoFluidOne=0.514021; averageRhoFluidTwo=0.528602
+[Timer] step=21200; percent=70.6667; passedTime=3679; remTime=1527.13; MLUPs=48.048
+[getResults] averageRhoFluidOne=0.514096; averageRhoFluidTwo=0.528611
+[Timer] step=21300; percent=71; passedTime=3695.63; remTime=1509.48; MLUPs=48.1203
+[getResults] averageRhoFluidOne=0.514171; averageRhoFluidTwo=0.528609
+[Timer] step=21400; percent=71.3333; passedTime=3712.33; remTime=1491.87; MLUPs=47.9042
+[getResults] averageRhoFluidOne=0.514106; averageRhoFluidTwo=0.528607
+[Timer] step=21500; percent=71.6667; passedTime=3729; remTime=1474.26; MLUPs=47.9962
+[getResults] averageRhoFluidOne=0.514107; averageRhoFluidTwo=0.528606
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=21600; percent=72; passedTime=3748.62; remTime=1457.8; MLUPs=40.7706
+[getResults] averageRhoFluidOne=0.514171; averageRhoFluidTwo=0.528609
+[Timer] step=21700; percent=72.3333; passedTime=3765.28; remTime=1440.18; MLUPs=48.0077
+[getResults] averageRhoFluidOne=0.514107; averageRhoFluidTwo=0.528605
+[Timer] step=21800; percent=72.6667; passedTime=3781.9; remTime=1422.55; MLUPs=48.1435
+[getResults] averageRhoFluidOne=0.514098; averageRhoFluidTwo=0.528605
+[Timer] step=21900; percent=73; passedTime=3798.5; remTime=1404.93; MLUPs=48.1841
+[getResults] averageRhoFluidOne=0.514097; averageRhoFluidTwo=0.528609
+[Timer] step=22000; percent=73.3333; passedTime=3815.09; remTime=1387.31; MLUPs=48.2189
+[getResults] averageRhoFluidOne=0.514102; averageRhoFluidTwo=0.528609
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=22100; percent=73.6667; passedTime=3834.61; remTime=1370.74; MLUPs=40.9899
+[getResults] averageRhoFluidOne=0.514085; averageRhoFluidTwo=0.528605
+[Timer] step=22200; percent=74; passedTime=3851.2; remTime=1353.13; MLUPs=48.2131
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528609
+[Timer] step=22300; percent=74.3333; passedTime=3867.84; remTime=1335.53; MLUPs=48.0856
+[getResults] averageRhoFluidOne=0.514172; averageRhoFluidTwo=0.528608
+[Timer] step=22400; percent=74.6667; passedTime=3884.42; remTime=1317.93; MLUPs=48.2509
+[getResults] averageRhoFluidOne=0.514107; averageRhoFluidTwo=0.528604
+[Timer] step=22500; percent=75; passedTime=3901.03; remTime=1300.34; MLUPs=48.1551
+[getResults] averageRhoFluidOne=0.514107; averageRhoFluidTwo=0.528604
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=22600; percent=75.3333; passedTime=3920.69; remTime=1283.77; MLUPs=40.698
+[getResults] averageRhoFluidOne=0.514123; averageRhoFluidTwo=0.528607
+[Timer] step=22700; percent=75.6667; passedTime=3937.34; remTime=1266.19; MLUPs=48.0423
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528607
+[Timer] step=22800; percent=76; passedTime=3953.99; remTime=1248.63; MLUPs=48.0625
+[getResults] averageRhoFluidOne=0.514085; averageRhoFluidTwo=0.528603
+[Timer] step=22900; percent=76.3333; passedTime=3970.69; remTime=1231.09; MLUPs=47.8841
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528608
+[Timer] step=23000; percent=76.6667; passedTime=3987.42; remTime=1213.56; MLUPs=47.8154
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528606
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=23100; percent=77; passedTime=4007.03; remTime=1196.9; MLUPs=40.808
+[getResults] averageRhoFluidOne=0.514107; averageRhoFluidTwo=0.528603
+[Timer] step=23200; percent=77.3333; passedTime=4023.78; remTime=1179.38; MLUPs=47.7526
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528608
+[Timer] step=23300; percent=77.6667; passedTime=4040.57; remTime=1161.88; MLUPs=47.6502
+[getResults] averageRhoFluidOne=0.514121; averageRhoFluidTwo=0.528611
+[Timer] step=23400; percent=78; passedTime=4057.31; remTime=1144.37; MLUPs=47.7755
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528607
+[Timer] step=23500; percent=78.3333; passedTime=4074.01; remTime=1126.85; MLUPs=47.9185
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528603
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=23600; percent=78.6667; passedTime=4093.71; remTime=1110.16; MLUPs=40.6091
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528607
+[Timer] step=23700; percent=79; passedTime=4110.48; remTime=1092.66; MLUPs=47.7071
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528607
+[Timer] step=23800; percent=79.3333; passedTime=4127.09; remTime=1075.12; MLUPs=48.1493
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528608
+[Timer] step=23900; percent=79.6667; passedTime=4143.69; remTime=1057.59; MLUPs=48.1986
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528607
+[Timer] step=24000; percent=80; passedTime=4160.37; remTime=1040.09; MLUPs=47.9645
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528611
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=24100; percent=80.3333; passedTime=4179.61; remTime=1023.22; MLUPs=41.5822
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528607
+[Timer] step=24200; percent=80.6667; passedTime=4196.85; remTime=1005.86; MLUPs=46.3876
+[getResults] averageRhoFluidOne=0.514108; averageRhoFluidTwo=0.528608
+[Timer] step=24300; percent=81; passedTime=4213.74; remTime=988.408; MLUPs=47.3765
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528611
+[Timer] step=24400; percent=81.3333; passedTime=4230.47; remTime=970.929; MLUPs=47.8069
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528612
+[Timer] step=24500; percent=81.6667; passedTime=4247.05; remTime=953.42; MLUPs=48.2596
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528607
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=24600; percent=82; passedTime=4266.52; remTime=936.553; MLUPs=41.0952
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528612
+[Timer] step=24700; percent=82.3333; passedTime=4283.11; remTime=919.047; MLUPs=48.2247
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.52861
+[Timer] step=24800; percent=82.6667; passedTime=4299.67; remTime=901.543; MLUPs=48.3092
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528607
+[Timer] step=24900; percent=83; passedTime=4316.14; remTime=884.028; MLUPs=48.5732
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528607
+[Timer] step=25000; percent=83.3333; passedTime=4332.78; remTime=866.556; MLUPs=48.0683
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.52861
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=25100; percent=83.6667; passedTime=4352.14; remTime=849.621; MLUPs=41.3223
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528611
+[Timer] step=25200; percent=84; passedTime=4368.73; remTime=832.139; MLUPs=48.2276
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528605
+[Timer] step=25300; percent=84.3333; passedTime=4385.36; remTime=814.672; MLUPs=48.1
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528607
+[Timer] step=25400; percent=84.6667; passedTime=4401.94; remTime=797.202; MLUPs=48.2538
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528605
+[Timer] step=25500; percent=85; passedTime=4418.48; remTime=779.732; MLUPs=48.3676
+[getResults] averageRhoFluidOne=0.51411; averageRhoFluidTwo=0.528601
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=25600; percent=85.3333; passedTime=4438.01; remTime=762.782; MLUPs=40.9689
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528606
+[Timer] step=25700; percent=85.6667; passedTime=4454.48; remTime=745.302; MLUPs=48.5673
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528606
+[Timer] step=25800; percent=86; passedTime=4471.11; remTime=727.856; MLUPs=48.0827
+[getResults] averageRhoFluidOne=0.514109; averageRhoFluidTwo=0.528606
+[Timer] step=25900; percent=86.3333; passedTime=4487.73; remTime=710.413; MLUPs=48.1551
+[getResults] averageRhoFluidOne=0.51411; averageRhoFluidTwo=0.528606
+[Timer] step=26000; percent=86.6667; passedTime=4504.3; remTime=692.969; MLUPs=48.28
+[getResults] averageRhoFluidOne=0.51411; averageRhoFluidTwo=0.528605
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=26100; percent=87; passedTime=4523.82; remTime=675.973; MLUPs=40.9899
+[getResults] averageRhoFluidOne=0.51411; averageRhoFluidTwo=0.528605
+[Timer] step=26200; percent=87.3333; passedTime=4540.47; remTime=658.541; MLUPs=48.0452
+[getResults] averageRhoFluidOne=0.51411; averageRhoFluidTwo=0.528606
+[Timer] step=26300; percent=87.6667; passedTime=4557.09; remTime=641.112; MLUPs=48.1145
+[getResults] averageRhoFluidOne=0.514112; averageRhoFluidTwo=0.528605
+[Timer] step=26400; percent=88; passedTime=4573.69; remTime=623.685; MLUPs=48.2102
+[getResults] averageRhoFluidOne=0.514112; averageRhoFluidTwo=0.528605
+[Timer] step=26500; percent=88.3333; passedTime=4590.26; remTime=606.261; MLUPs=48.2684
+[getResults] averageRhoFluidOne=0.514114; averageRhoFluidTwo=0.528606
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=26600; percent=88.6667; passedTime=4609.71; remTime=589.212; MLUPs=41.1311
+[getResults] averageRhoFluidOne=0.514115; averageRhoFluidTwo=0.528606
+[Timer] step=26700; percent=89; passedTime=4626.35; remTime=571.796; MLUPs=48.0943
+[getResults] averageRhoFluidOne=0.514115; averageRhoFluidTwo=0.52861
+[Timer] step=26800; percent=89.3333; passedTime=4642.97; remTime=554.384; MLUPs=48.129
+[getResults] averageRhoFluidOne=0.514115; averageRhoFluidTwo=0.528605
+[Timer] step=26900; percent=89.6667; passedTime=4659.6; remTime=536.981; MLUPs=48.0914
+[getResults] averageRhoFluidOne=0.514115; averageRhoFluidTwo=0.528606
+[Timer] step=27000; percent=90; passedTime=4676.09; remTime=519.566; MLUPs=48.5172
+[getResults] averageRhoFluidOne=0.514115; averageRhoFluidTwo=0.528611
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=27100; percent=90.3333; passedTime=4695.55; remTime=502.476; MLUPs=41.1057
+[getResults] averageRhoFluidOne=0.514115; averageRhoFluidTwo=0.52861
+[Timer] step=27200; percent=90.6667; passedTime=4712.27; remTime=485.087; MLUPs=47.8526
+[getResults] averageRhoFluidOne=0.514115; averageRhoFluidTwo=0.528606
+[Timer] step=27300; percent=91; passedTime=4728.97; remTime=467.7; MLUPs=47.9214
+[getResults] averageRhoFluidOne=0.514116; averageRhoFluidTwo=0.528605
+[Timer] step=27400; percent=91.3333; passedTime=4745.53; remTime=450.306; MLUPs=48.2888
+[getResults] averageRhoFluidOne=0.514192; averageRhoFluidTwo=0.52861
+[Timer] step=27500; percent=91.6667; passedTime=4762.16; remTime=432.924; MLUPs=48.1174
+[getResults] averageRhoFluidOne=0.514116; averageRhoFluidTwo=0.528605
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=27600; percent=92; passedTime=4781.85; remTime=415.813; MLUPs=40.6318
+[getResults] averageRhoFluidOne=0.514116; averageRhoFluidTwo=0.528606
+[Timer] step=27700; percent=92.3333; passedTime=4798.39; remTime=398.423; MLUPs=48.3442
+[getResults] averageRhoFluidOne=0.514123; averageRhoFluidTwo=0.52861
+[Timer] step=27800; percent=92.6667; passedTime=4814.98; remTime=381.042; MLUPs=48.2509
+[getResults] averageRhoFluidOne=0.514116; averageRhoFluidTwo=0.52861
+[Timer] step=27900; percent=93; passedTime=4831.56; remTime=363.666; MLUPs=48.2393
+[getResults] averageRhoFluidOne=0.514116; averageRhoFluidTwo=0.528606
+[Timer] step=28000; percent=93.3333; passedTime=4848.11; remTime=346.294; MLUPs=48.3267
+[getResults] averageRhoFluidOne=0.514116; averageRhoFluidTwo=0.52861
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=28100; percent=93.6667; passedTime=4867.81; remTime=329.141; MLUPs=40.6071
+[getResults] averageRhoFluidOne=0.514192; averageRhoFluidTwo=0.52861
+[Timer] step=28200; percent=94; passedTime=4884.49; remTime=311.776; MLUPs=47.9703
+[getResults] averageRhoFluidOne=0.514116; averageRhoFluidTwo=0.52861
+[Timer] step=28300; percent=94.3333; passedTime=4901.11; remTime=294.413; MLUPs=48.1319
+[getResults] averageRhoFluidOne=0.514116; averageRhoFluidTwo=0.52861
+[Timer] step=28400; percent=94.6667; passedTime=4917.68; remTime=277.053; MLUPs=48.28
+[getResults] averageRhoFluidOne=0.514192; averageRhoFluidTwo=0.528609
+[Timer] step=28500; percent=95; passedTime=4934.29; remTime=259.7; MLUPs=48.1725
+[getResults] averageRhoFluidOne=0.514117; averageRhoFluidTwo=0.52861
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=28600; percent=95.3333; passedTime=4953.83; remTime=242.495; MLUPs=40.9417
+[getResults] averageRhoFluidOne=0.514117; averageRhoFluidTwo=0.528609
+[Timer] step=28700; percent=95.6667; passedTime=4970.52; remTime=225.146; MLUPs=47.9272
+[getResults] averageRhoFluidOne=0.514193; averageRhoFluidTwo=0.528609
+[Timer] step=28800; percent=96; passedTime=4987.15; remTime=207.799; MLUPs=48.0914
+[getResults] averageRhoFluidOne=0.514194; averageRhoFluidTwo=0.528608
+[Timer] step=28900; percent=96.3333; passedTime=5003.82; remTime=190.457; MLUPs=48.0106
+[getResults] averageRhoFluidOne=0.514118; averageRhoFluidTwo=0.528608
+[Timer] step=29000; percent=96.6667; passedTime=5020.39; remTime=173.117; MLUPs=48.2625
+[getResults] averageRhoFluidOne=0.514118; averageRhoFluidTwo=0.528608
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=29100; percent=97; passedTime=5039.92; remTime=155.874; MLUPs=40.9626
+[getResults] averageRhoFluidOne=0.514194; averageRhoFluidTwo=0.528607
+[Timer] step=29200; percent=97.3333; passedTime=5056.54; remTime=138.536; MLUPs=48.1377
+[getResults] averageRhoFluidOne=0.514119; averageRhoFluidTwo=0.528608
+[Timer] step=29300; percent=97.6667; passedTime=5073.2; remTime=121.203; MLUPs=48.0279
+[getResults] averageRhoFluidOne=0.514119; averageRhoFluidTwo=0.528608
+[Timer] step=29400; percent=98; passedTime=5089.83; remTime=103.875; MLUPs=48.1174
+[getResults] averageRhoFluidOne=0.514195; averageRhoFluidTwo=0.528608
+[Timer] step=29500; percent=98.3333; passedTime=5106.38; remTime=86.5485; MLUPs=48.3325
+[getResults] averageRhoFluidOne=0.514195; averageRhoFluidTwo=0.528608
+We could not find a gnuplot distribution at your system.
+We still write the data files s.t. you can plot the data yourself.
+[Timer] step=29600; percent=98.6667; passedTime=5125.9; remTime=69.269; MLUPs=40.9773
+[getResults] averageRhoFluidOne=0.514119; averageRhoFluidTwo=0.528609
+[Timer] step=29700; percent=99; passedTime=5142.73; remTime=51.947; MLUPs=47.5398
+[getResults] averageRhoFluidOne=0.514195; averageRhoFluidTwo=0.528608
+[Timer] step=29800; percent=99.3333; passedTime=5159.42; remTime=34.627; MLUPs=47.9358
+[getResults] averageRhoFluidOne=0.514195; averageRhoFluidTwo=0.528608
+[Timer] step=29900; percent=99.6667; passedTime=5175.98; remTime=17.311; MLUPs=48.3004
+[getResults] averageRhoFluidOne=0.514196; averageRhoFluidTwo=0.528608
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 5192.575s
+[Timer] measured time (cpu): 5159.728s
+[Timer] average MLUPs :       46.066
+[Timer] average MLUPps:       2.879
+[Timer] ---------------------------------------------
+Sun Jun  2 09:41:56 AM UTC 2024
