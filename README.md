@@ -7,8 +7,8 @@
 - [ ] HPL.pdf (Optional)
 - [x] RegCM.out
 - [x] RegCM.pdf
-- [ ] ParaSeis.out
-- [ ] ParaSeis.pdf
+- [x] ParaSeis.out
+- [x] ParaSeis.pdf
 - [x] LAMMPS.out
 - [x] LAMMPS.pdf
 - [x] OpenLB.out
